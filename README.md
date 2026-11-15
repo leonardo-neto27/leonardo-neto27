@@ -17,7 +17,7 @@
 
 ## 👋 Apresentação
 
-Olá! Sou Leonardo, estudante de Desenvolvimento de Software.
+Olá! Sou Leonardo, estudante de Análise e Desenvolvimento de Sistemas da Faculdade de Informática e Administração Paulista (FIAP).
 
 Tenho interesse em programação, desenvolvimento de aplicações e tecnologia. Estou sempre buscando aprender novas ferramentas, aprimorar minhas habilidades e desenvolver projetos que coloquem meus conhecimentos em prática.
 
