@@ -50,15 +50,9 @@ Tenho interesse em programação, desenvolvimento de aplicações e tecnologia. 
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Atividades do GitHub
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=leonardo-neto27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=101820&title_color=91B9CC&icon_color=91B9CC&text_color=D9E2E8" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-neto27&layout=compact&theme=tokyonight&hide_border=true&bg_color=101820&title_color=91B9CC&text_color=D9E2E8" />
-
-</div>
+[Veja minhas contribuições e repositórios no GitHub](https://github.com/leonardo-neto27?tab=repositories).
 
 ---
 
