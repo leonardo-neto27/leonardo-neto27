@@ -7,7 +7,7 @@
 
 <br/>
 
-<h1>Leonardo</h1>
+<h1>Leonardo Pinto Neto</h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=91B9CC&center=true&vCenter=true&width=550&lines=Bem-vindo+ao+meu+mundo+de+Hallownest!" />
 
